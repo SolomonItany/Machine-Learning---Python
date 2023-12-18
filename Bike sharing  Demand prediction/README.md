@@ -1,7 +1,7 @@
 # **Ride-Sharing Demand Prediction**
 
 ## Overview:
-This project focuses on predicting ride-sharing demand using machine learning models, including Linear Regression, Stocastic Gradient descent, Ridge Regression, Random Forest, and XGBoost. By analyzing historical data, and various influencing factors. 
+This project focuses on predicting ride-sharing demand using machine learning models, including Linear Regression, Stocastic Gradient descent Regressor, Ridge Regression, Random Forest, and XGBoost. By analyzing historical data, and various influencing factors. 
 
 ℹ️ **Data source:** https://www.kaggle.com/competitions/bike-sharing-demand/data
 
